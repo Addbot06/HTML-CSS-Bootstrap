@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+<body>
+    <header class="container bg-dark">LOGOs</header>
+    
+    <div class="container">
+      <h2 class="h2">Dashboard:</h2>
+      <table class="table">
+        <thead>
+          <th>Name</th>
+          <th>Team</th>
+          <th>All Star</th>
+          <th>Remove</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Steph</td>
+            <td>Warriors</td>
+            <td>Yes</td>
+            <td><a href="" class="btn btn-sm btn-danger"><i class="fa fa-times"></i></a></td>
+          </tr>
+
+          <tr>
+            <td>Lebron</td>
+            <td>Cavaliers</td>
+            <td>Yes</td>
+            <td><a href="" class="btn btn-sm btn-danger"><i class="fa fa-times"></i></a></td>
+          </tr>
+
+          <tr>
+            <td>Dwayne</td>
+            <td>Heat</td>
+            <td>Yes</td>
+            <td><a href="" class="btn btn-sm btn-danger"><i class="fa fa-times"></i></a></td>
+          </tr>
+
+          <tr>
+            <td>Kobe</td>
+            <td>Lakers</td>
+            <td>Yes
+              <span class="badge bg-warning text-dark">Last</span>
+            </td>
+            <td><a href="" class="btn btn-sm btn-danger"><i class="fa fa-times"></i></a></td>
+          </tr>
+          
+          <tr>
+            <td>Isaiah</td>
+            <td>Celtics</td>
+            <td>Yes
+              <span class="badge bg-success">First</span>
+            </td>
+            <td><a href="" class="btn btn-sm btn-danger"><i class="fa fa-times"></i></a></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2 class="h2">Todos:</h2>
+      <table class="table">
+        <tbody>
+          <tr>
+            <td class="green">Feel good about Bootstrap</td>
+          </tr>
+
+          <tr>
+            <td class="blue">Feel informed about Bootstrap</td>
+          </tr>
+
+          <tr>
+            <td class="yellow">Feel warned about Bootstrap</td>
+          </tr>
+
+          <tr>
+            <td class="yellow">Maybe I should read the docs...</td>
+          </tr>
+
+          <tr>
+            <td class="red">Danger Zone</td>
+          </tr>
+
+          <tr>
+            <td class="red">I really should read the docs...</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <script type="module" src="/main.js"></script>
+</body>
+</html>

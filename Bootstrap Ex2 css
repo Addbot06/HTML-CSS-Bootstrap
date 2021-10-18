@@ -1,0 +1,29 @@
+.p1 {
+  color: #19881e;
+  padding: 10px 0 10px 0;
+}
+.thanks {
+  background-color: #ccecd0;
+}
+.welcome {
+  background-color: #ebecf0;
+}
+.btn-learn {
+  color: #fff;
+  background-color: #317df7;
+  padding: 10x;
+}
+/*# sourceMappingURL=style.css.map */
+/* Table.html CSS */
+.red {
+  background-color: #f5c6ca !important;
+}
+.yellow {
+  background-color: #ffeeba !important;
+}
+.blue {
+  background-color: #bde5eb !important;
+}
+.green {
+  background-color: #c3e6cb !important;
+}

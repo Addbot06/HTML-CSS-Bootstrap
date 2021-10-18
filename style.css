@@ -1,0 +1,288 @@
+.masthead {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    url("/img/onepress2_hero.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 200px 50px;
+  text-align: center;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700 !important;
+  font-size: 60px !important;
+}
+.h3 {
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-weight: 700 !important;
+  font-size: 20px !important;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+.about-p {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #777;
+}
+.text {
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
+}
+.btn-info {
+  color: #fff !important;
+  font-size: 18px !important;
+  padding: 10px 15px !important;
+}
+.btn-primary {
+  background-color: #0d6efd00 !important;
+  border-color: #fff !important;
+  font-size: 18px !important;
+  padding: 10px 15px !important;
+}
+.btn-info:hover {
+  background-color: #fff !important;
+  color: #0dcaf0 !important;
+}
+.btn-primary:hover {
+  background-color: #0dcaf0 !important;
+  border-color: #0dcaf0 !important;
+  font-size: 18px !important;
+  padding: 10px 15px !important;
+}
+.btn-color1 {
+  margin-right: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+.btn-color2 {
+  margin-left: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+.h2 {
+  color: #333333;
+  font-size: 40px !important;
+  letter-spacing: 3.5px;
+  font-weight: 800;
+}
+.h4 {
+  color: #aaaaaa;
+  font-size: 13px !important;
+}
+.features-section {
+  padding: 100px 50px;
+  text-align: center;
+}
+i.feature-icon.fa.fa-laptop.fa-stack-1x {
+  width: 100px !important;
+  text-align: center !important;
+}
+img {
+  width: 70px;
+}
+.about-section {
+  text-align: center;
+}
+.about-subtext {
+  color: #777;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px !important;
+  line-height: 1.7;
+}
+.about-sub {
+  text-align: left;
+}
+.img-fluid {
+  width: 100%;
+  padding-bottom: 10px;
+}
+.services-sub {
+  padding: 50px 0;
+}
+.services-section {
+  text-align: center;
+  padding: 100px 50px;
+}
+.services-img {
+  width: 90px;
+  text-align: center;
+}
+.services-img-col {
+  text-align: right;
+}
+.facts-section {
+  text-align: center;
+  padding: 50px 0;
+}
+.facts-section h4 {
+  padding: 50px 0;
+}
+.blue-text {
+  color: #03c4eb;
+  font-size: 50px;
+  text-align: center;
+  line-height: 50px;
+  margin: 0;
+}
+.sub-text {
+  color: #777777;
+  font-size: 18px !important;
+  text-align: center;
+}
+.h5 {
+  color: #333;
+  font-size: 15px !important;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1.5px;
+}
+.h6 {
+  color: #777;
+  font-size: 10px !important;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1.5px;
+}
+.team-section {
+  text-align: center;
+  padding: 150px 0;
+}
+.members {
+  padding-top: 50px;
+}
+.news-text {
+  font-family: "Open Sans", sans-serif;
+  color: #777;
+  font-size: 14px;
+}
+.news-section h4,
+.news-section h2 {
+  text-align: center;
+}
+.news-section h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 22px;
+  font-weight: 400 !important;
+}
+.tags {
+  color: #03c4eb;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+.breadcrumbs {
+  font-size: 11px;
+  text-transform: uppercase;
+}
+.news-button {
+  text-align: center !important;
+  padding: 50px 30px;
+}
+.news-button button {
+  color: #03c4eb;
+  background-color: #0d6efd00;
+  border: 1px solid;
+  border-color: #03c4eb;
+  padding: 8px 16px;
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+}
+.news-button button:hover {
+  color: #fff;
+  background-color: #03c4eb;
+  border: 1px solid;
+  border-color: #03c4eb;
+  padding: 8px 16px;
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  transition: 0.5s ease;
+}
+.footer-section {
+  text-align: center;
+  background-color: #111;
+  color: #fff;
+  padding: 100px 30px;
+}
+.email-field,
+.subscribe-button {
+  width: 100%;
+  margin-bottom: 5px;
+}
+.subscribe-button {
+  color: #fff;
+  background-color: #03c4eb;
+  border: 1px solid;
+  border-color: #03c4eb;
+  padding: 14px 20px;
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  transition: 0.5s ease;
+  letter-spacing: 1.1px;
+}
+.subscribe-button:hover {
+  color: #03c4eb;
+  background-color: #0d6efd00;
+  border: 1px solid;
+  border-color: #03c4eb;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+}
+::placeholder {
+  color: #777 !important;
+  opacity: 0.6;
+  padding: 10px;
+}
+i {
+  font-size: 30px;
+  padding: 10px 10px;
+  color: #fff;
+}
+i:hover {
+  color: #03c4eb;
+  transition: 0.5s ease;
+}
+
+@media (max-width: 767px) {
+  .services-sub,
+  .services-img-col {
+    text-align: center;
+  }
+  .services-sub {
+    padding: 0;
+  }
+  .services-img-col {
+    padding: 30px 0 10px;
+  }
+  .services-section {
+    padding: 100px 30px 50px;
+  }
+  .col-md-3 {
+    padding-bottom: 20px;
+  }
+  .member img {
+    padding-top: 50px !important;
+    padding-bottom: 10px !important;
+  }
+  .footer-section .col-md-3 {
+    padding: 0 30px 50px !important;
+  }
+  i {
+    font-size: 20px;
+  }
+}
